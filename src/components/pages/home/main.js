@@ -9,7 +9,7 @@ const Main = () => {
             <h1 id='hello'>Hello, I'm</h1>
             <h1 id='name'>XXXX</h1>
             <h1 id='person-description'>
-              UI Developer. UX Desinger. Problem Solver.
+              UI Developer. UX Designer. Problem Solver.
             </h1>
           </div>
         </div>

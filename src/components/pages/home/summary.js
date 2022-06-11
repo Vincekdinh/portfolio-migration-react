@@ -11,7 +11,7 @@ const Summary = () => {
                 <div className='development-img'>
                   <img
                     className='img-responsive'
-                    src='images/developerdesign.svg'
+                    src='./images/developerdesign.svg'
                   />
                 </div>
               </div>
@@ -33,7 +33,7 @@ const Summary = () => {
                 <div className='responsive-img'>
                   <img
                     className='img-responsive'
-                    src='images/responsivedesign.svg'
+                    src='./images/responsivedesign.svg'
                   />
                 </div>
               </div>
@@ -59,7 +59,7 @@ const Summary = () => {
                 <div className='idea-img'>
                   <img
                     className='img-responsive'
-                    src='images/innovativesolutions.svg'
+                    src='./images/innovativesolutions.svg'
                   />
                 </div>
               </div>
@@ -79,7 +79,7 @@ const Summary = () => {
 
             <div className='passion-summary'>
               <div className='col-sm-1 col-md-1 col-sm-offset-2 col-md-offset-2'>
-                <img className='img-responsive' src='images/passion.svg' />
+                <img className='img-responsive' src='./images/passion.svg' />
               </div>
 
               <div className='col-sm-4 col-md-4'>

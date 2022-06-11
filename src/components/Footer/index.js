@@ -9,7 +9,7 @@ const Footer = () => {
             <div className='col-sm-1 col-md-1 col-sm-offset-4 col-md-offset-4'>
               <div className='facebook'>
                 <a href='#'>
-                  <img className='img-responsive' src='images/facebook.svg' />
+                  <img className='img-responsive' src='./images/facebook.svg' />
                 </a>
               </div>
             </div>
@@ -17,7 +17,7 @@ const Footer = () => {
             <div className='col-sm-1 col-md-1'>
               <div className='linkedin'>
                 <a href='#'>
-                  <img className='img-responsive' src='images/linkedin.svg' />
+                  <img className='img-responsive' src='./images/linkedin.svg' />
                 </a>
               </div>
             </div>
@@ -25,7 +25,10 @@ const Footer = () => {
             <div className='col-sm-1 col-md-1'>
               <div className='pinterest'>
                 <a href='#'>
-                  <img className='img-responsive' src='images/pinterest.svg' />
+                  <img
+                    className='img-responsive'
+                    src='./images/pinterest.svg'
+                  />
                 </a>
               </div>
             </div>
@@ -33,7 +36,7 @@ const Footer = () => {
             <div className='col-sm-1 col-md-1'>
               <div className='email-icon'>
                 <a href='#'>
-                  <img className='img-responsive' src='images/email.svg' />
+                  <img className='img-responsive' src='./images/email.svg' />
                 </a>
               </div>
             </div>

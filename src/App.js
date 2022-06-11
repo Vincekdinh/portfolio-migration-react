@@ -1,10 +1,12 @@
 import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./components/pages/home";
 import Portfolio from "./components/pages/portfolio";
 import Contact from "./components/pages/contact";
+import Footer from "./components/Footer";
+
+// <!-- css -->
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
